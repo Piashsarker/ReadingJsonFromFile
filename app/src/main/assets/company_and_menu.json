@@ -1,0 +1,50 @@
+{
+  "company": {
+    "name": "Akash Builders",
+    "company_type": "Real Estate",
+    "company_logo": "path/to/logo"
+  },
+  "menu": [
+    {
+      "menu_id": "1",
+      "menu_title": "menu1",
+      "menu_logo": "path/to/menu/logo",
+      "has_category": "true",
+      "category_count":"5"
+
+    },
+    {
+      "menu_id": "2",
+      "menu_title": "menu1",
+      "menu_logo": "path/to/menu/logo",
+      "has_category": "true",
+      "category_count":"5"
+
+    },
+    {
+      "menu_id": "3",
+      "menu_title": "menu1",
+      "menu_logo": "path/to/menu/logo",
+      "has_category": "true",
+      "category_count":"5"
+
+    },
+    {
+      "menu_id": "4",
+      "menu_title": "menu1",
+      "menu_logo": "path/to/menu/logo",
+      "has_category": "true",
+      "category_count":"5"
+
+    },
+    {
+      "menu_id": "5",
+      "menu_title": "menu1",
+      "menu_logo": "path/to/menu/logo",
+      "has_category": "true",
+      "category_count":"5"
+
+    }
+
+  ]
+}
